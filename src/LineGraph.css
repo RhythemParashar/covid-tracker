@@ -1,0 +1,10 @@
+.chartjs-render-monitor {
+    height: 200px !important;
+    padding-top: 30px;
+}
+
+@media (max-width: 900px) {
+    .chartjs-render-monitor {
+        height: 180px !important;
+    }
+}
